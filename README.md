@@ -1,0 +1,2 @@
+# pet_classification
+This is a binary classification. The training set has about 60 images of dogs and cats. This project intends to create a convolutional neural network (CNN) model classification using TensorFlow to predict images. The CNN has 1 input layers, 2 convolutional layers, as well as polling as intermediary layers. A final fully connected dense layer is added, with a dropout layer of 0.4.
